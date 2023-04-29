@@ -1,3 +1,2 @@
-##  Hi
-Im currently working at DogsonkiMessenger. \
-Hope it won't crash as always 💀
+##  Hello
+Im currently working at DogsonkiMessenger and my website https://puzonnsthings.pl
